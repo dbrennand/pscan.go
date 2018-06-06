@@ -1,5 +1,5 @@
 # pscan.go
-A Golang script to check if common ports are open on a server or device.
+A Golang port scanner.
 
 ## Dependencies
 pscan.go is written in Golang so it is **REQUIRED**.
